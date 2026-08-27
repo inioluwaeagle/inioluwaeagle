@@ -34,7 +34,9 @@ Web Development, Frontend Development,
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a medication reminder app and directory platform for event planners 
+- 🔭 I’m currently working on
+  - a medication reminder app
+  - and platform for event planners 
 - 🌱 I’m currently learning about
   - AI,
   - Automation,
@@ -44,11 +46,15 @@ Here are some ideas to get you started:
   - Cloud Computing and Engineering
 - 👯 I’m looking to collaborate on Open-Source projects related to my skills, learning and anything that's interest me
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love watching Nat Geo Wild and Gisting with Daughters 
+- 👜 Knows about
+  - Product Management
+  - Canva Design
+  - Writing 
+- ⚡ Fun fact: I love watching Cartoons, Animal channels like Nat Geo Wild, football highlights, Ai videos and Gisting with Daughters 
 
 ## 📫 How to reach me: 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:oluwayemiojeyemi@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/+2348167241319)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/2348167241319)
 
 
 <!--
