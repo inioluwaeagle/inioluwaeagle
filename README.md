@@ -30,9 +30,15 @@ Bachelor of Computer Science *in view*, *expected 2027* || MIVA Open University,
 Ecommerce Website 
   - HTML, CSS, JavaScript 
 
-Smart Library Circulation System Automation
+Smart Library Circulation Automation System 
   - Java
 
+Student Management System 
+  - C
+
+Palidrome and Triangle [App Here](https://drive.google.com/drive/folders/1VaBmrxZFGPHXxEhQxNEujSoHGKFVrrzp) for more details.
+
+  - Python 
 
 ## Skills:
 
