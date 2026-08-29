@@ -28,7 +28,6 @@ Bachelor of Computer Science *in view*, *expected 2027* || MIVA Open University,
 ## Projects I've worked on 
 
 [Ecommerce Website for a Fashion Business, Velaora's Couture](https://nelon111.github.io/cyberbuddies/index.html)
-
   - HTML, CSS, JavaScript 
 
 Smart Library Circulation Automation System 
@@ -37,8 +36,20 @@ Smart Library Circulation Automation System
 Student Management System 
   - C
 
-[Palidrome and Triangle](https://drive.google.com/drive/folders/1VaBmrxZFGPHXxEhQxNEujSoHGKFVrrzp)
+[Palidrome and Right-Angled Triangle](https://drive.google.com/drive/folders/1VaBmrxZFGPHXxEhQxNEujSoHGKFVrrzp)
   - Python 
+
+R script for Palmer Penguins Dataset | Statistical Computing, Inference and Modelling
+  - R
+
+Python Pseudocode Workflow to clean, analyse, and visualise the data
+  - Python
+
+Clinic Landing Page 
+  - HTML, CSS
+
+Business Animate Ads Banners
+  HTML, JavaScript
 
 ## Skills:
 
